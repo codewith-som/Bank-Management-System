@@ -57,21 +57,6 @@ Bank-Management-System/
 
 ## ⚙️ Installation
 
-### 1. Clone Repository
-
-```bash
-git clone https://github.com/your-username/bank-management-system.git
-cd bank-management-system
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Or
-
 ```bash
 pip install streamlit
 ```
